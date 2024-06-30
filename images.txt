@@ -9,4 +9,4 @@ python:alpine3.19
 gztime/gzctf:latest
 ghcr.io/gztimewalker/gzctf/gzctf:latest
 #postgres镜像
-postgres:lastest
+postgres
