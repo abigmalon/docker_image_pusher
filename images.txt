@@ -5,6 +5,7 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 python:alpine3.19
+python:alpine
 #gzctf镜像
 gztime/gzctf:latest
 ghcr.io/gztimewalker/gzctf/gzctf:latest
