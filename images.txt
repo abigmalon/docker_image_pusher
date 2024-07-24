@@ -12,5 +12,5 @@ ghcr.io/gztimewalker/gzctf/gzctf:latest
 #postgres镜像
 postgres:alpine
 #lamp镜像
-tutum/lamp
+javanile/lamp
 
