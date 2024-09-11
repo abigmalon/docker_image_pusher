@@ -13,4 +13,6 @@ ghcr.io/gztimewalker/gzctf/gzctf:latest
 postgres:alpine
 #lamp镜像
 javanile/lamp
+#ctftraining
+ctftraining/base_image_nginx_php_56
 
