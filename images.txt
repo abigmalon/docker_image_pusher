@@ -16,4 +16,4 @@ javanile/lamp
 #ctftraining
 ctftraining/base_image_nginx_php_56
 ctftraining/base_image_nginx_mysql_php_73
-ctftraining/qwb_2019_supersqli
+
